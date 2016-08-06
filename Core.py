@@ -22,6 +22,13 @@ class Payment(BaseClass):
     def __init__(self,name,**kwargs):
         super(Payment,self).__init__(name,**kwargs)
 
+    def __str__(self):
+        varlines =  ['{var:<15}:   {value}'.format(var=var, value=value) \
+                    for var,value in sorted(vars(self).iteritems()) \
+                    if var is not '_name']
+        return '\n'.join(varlines)
+
+
 class PaymentReader(BaseClass):
     def readTextFile(self,textFilePath):
         self.dict = OrderedDict()

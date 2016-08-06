@@ -3,3 +3,18 @@ Title: May 2016 Accounts
 15 | Milan Cafe | 12.90 | Euro | Yiting
 15 | Milan Restaurant | 59.90 | Euro | Yiting
 18 | Migros | 48.09 | Euro | Lucien
+16 | Mr Moussa | 3.12 | Euro | Yiting
+16 | Chamonix Restaurant | 40.60 | Euro | Lucien
+16 | Migros | 25.09 | Euro | Lucien
+16 | O'Brasseur | 40.00 | Euro | Yiting
+15 | Milan Setefi | 37.56 | Euro | Yiting
+10 | Cote Potager | 8.78 | Euro | Lucien
+19 | Le Royal Thai | 38.00 | Euro | Lucien
+13 | Migros | 26.98 | Euro | Lucien
+12 | Migros | 16.05 | Euro | Lucien
+04 | Migors | 50.83 | Euro | Lucien
+04 | Migros Gas | 31.53 | Euro | Lucien
+04 | Le Feu Vert | 198.99 | Euro | Lucien
+01 | Jia Wei | 52.00 | CHF | Yiting
+01 | Tempi | 00.00 | CHF | Lucien
+
