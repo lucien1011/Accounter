@@ -1,0 +1,18 @@
+Title: Feb 2016 Accounts
+
+27 | Leroy Merlin Thoiry | 9.90 | Euro | Lucien
+25 | IKEA | 9.95 | CHF | Lucien
+27 | La Clemence | 8.50 | CHF | Yiting
+20 | Migros Gas | 28.17 | Euro | Lucien
+27 | Migros | 38.92 | Euro | Lucien
+09 | Migros | 58.83 | Euro | Lucien
+20 | Migros | 60.34 | Euro | Lucien
+22 | Migros | 30.62 | Euro | Lucien
+16 | Migros | 58.18 | Euro | Yiting
+11 | Migros | 49.50 | Euro | Lucien
+08 | Carrefour Gas | 25.24 | Euro | Lucien
+27 | McDonald's | 12.60 | Euro | Lucien
+26 | Pathe | 49.50 | CHF | Yiting
+02 | Migros | 45.93 | Euro | Lucien
+13 | Migros | 50.16 | Euro | Lucien
+06 | Migros | 76.55 | Euro | Lucien

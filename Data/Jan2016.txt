@@ -1,0 +1,23 @@
+Title: Jan 2016 Accounts
+
+30 | Manor | 49.95 | CHF | Yiting
+30 | Uchino | 67.50 | CHF | Lucien
+29 | Kebab | 13.90 | Euro | Lucien
+17 | McDonald's | 5.20 | Euro | Lucien
+12 | Migros | 34.38 | Euro | Lucien
+17 | St Brocard | 6.7 | Euro | Lucien
+16 | Migros | 58.46 | Euro | Lucien
+15 | Cote Potager | 7.87 | Euro | Lucien
+14 | Migros | 48.78 | Euro | Lucien
+23 | Carrefour Gas | 24.51 | Euro | Lucien
+23 | Looping Sports | 47.00 | Euro | Yiting
+23 | Les Basins | 36.00 | Euro | Lucien
+18 | Feu Vert | 50.00 | Euro | Lucien
+20 | Feu Vert | 218.80 | Euro | Lucien
+19 | Migros | 40.92 | Euro | Lucien
+22 | Le Coq Rouge | 85.40 | Euro | Lucien
+23 | Les Basins | 26.30 | Euro | Lucien
+23 | Migros | 41.06 | Euro | Lucien
+25 | Migros | 28.07 | Euro | Lucien
+30 | Migros | 27.09 | Euro | Lucien
+26 | Migros | 32.48 | Euro | Yiting
