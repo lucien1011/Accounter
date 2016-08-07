@@ -80,7 +80,7 @@ class Calculator(BaseClass):
         # Invert the sign to reflect the actual payment
         for key in results:
             results[key] *= -1.
-        return results
+        return results,total
 
 
 

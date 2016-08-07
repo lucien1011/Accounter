@@ -21,10 +21,10 @@ if option.verbose:
 
 # _______________________________________________________________________________________ ||
 # Calculate account
-results = Calculator.calculate(reader.dict["payments"])
+results,total = Calculator.calculate(reader.dict["payments"])
 
 print results
-
+print total
 # _______________________________________________________________________________________ ||
 # Finish
 reader.finish()
