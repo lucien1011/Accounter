@@ -1,0 +1,14 @@
+Title: Nov 2015 Accounts
+
+07 | Carrefour Gas | 32.31 | Euro | Lucien
+07 | Migros | 50.39 | Euro | Lucien
+14 | Migros | 37.91 | Euro | Lucien
+11 | Migros | 17.41 | Euro | Lucien
+22 | Migros | 30.22 | Euro | Lucien
+17 | Migros | 67.65 | Euro | Lucien
+18 | Migros | 20.97 | Euro | Lucien
+20 | Le Casanova | 64.00 | Euro | Lucien
+23 | Migros | 16.65 | Euro | Lucien
+25 | Migros | 41.21 | Euro | Lucien
+29 | St Brocard | 7.75 | Euro | Lucien
+01 | Temp | 0.00 | Euro | Yiting

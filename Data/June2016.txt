@@ -1,0 +1,9 @@
+Title: June 2016 Accounts
+
+12 | Hung Wan | 58.00 | CHF | Yiting
+15 | Withdrawal Nok | 1000.00 | NOK | Lucien
+01 | Temp | 0.00 | NOK | Yiting
+11 | Migros | 10.64 | Euro | Yiting
+11 | Migros | 97.28 | Euro | Yiting
+14 | Migros | 7.80 | Euro | Lucien
+

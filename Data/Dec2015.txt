@@ -1,0 +1,17 @@
+Title: Dec 2016 Accounts
+
+23 | Val Sante | 12.30 | Euro | Lucien
+05 | Carrefour Gas | 33.56 | Euro | Lucien
+23 | McDonald's | 9.00 | Euro | Lucien
+17 | Migros | 15.49 | Euro | Lucien
+07 | Migros | 31.47 | Euro | Lucien
+01 | Migros | 75.28 | Euro | Lucien
+10 | Migros | 61.41 | Euro | Lucien
+15 | Migros | 31.05 | Euro | Lucien
+23 | Migros | 14.56 | Euro | Lucien
+23 | Migros | 57.57 | Euro | Lucien
+18 | Autogrill Aeroport | 15.30 | CHF | Lucien
+04 | Migros | 10.12 | Euro | Lucien
+01 | Temp | 0.00 | Euro | Yiting
+01 | Temp | 0.00 | CHF | Yiting
+

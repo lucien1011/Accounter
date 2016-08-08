@@ -16,5 +16,16 @@ Title: May 2016 Accounts
 04 | Migros Gas | 31.53 | Euro | Lucien
 04 | Le Feu Vert | 198.99 | Euro | Lucien
 01 | Jia Wei | 52.00 | CHF | Yiting
-01 | Tempi | 00.00 | CHF | Lucien
+01 | Temp | 00.00 | CHF | Lucien
+28 | Migros | 75.52 | Euro | Lucien
+24 | Migros | 55.41 | Euro | Lucien
+22 | Akiko | 33.40 | CHF | Lucien
+21 | Nicolas | 8.70 | Euro | Lucien
+20 | Le Basili SA | 86.00 | CHF | Yiting
+21 | McDonald's | 24.90 | CHF | Lucien
+21 | Migros | 111.70 | Euro | Lucien
+23 | Migros Gas | 39.65 | CHF | Lucien
+16 | Mr Moussa | 4.50 | Euro | Yiting
+09 | Migros | 104.75 | Euro | Lucien
+14 | Acquisto | 52.50 | Euro | Lucien
 

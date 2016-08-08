@@ -1,0 +1,159 @@
+Title: Aprial 2016 Accounts
+
+30 | Migros | 104.20 | Euro | Lucien
+29 | Geneve Thai Restaurant | 94.30 | CHF | Yiting
+23 | Kebab | 13.90 | Euro | Lucien
+20 | Migros | 9.30 | Euro | Lucien
+23 | Migros | 70.48 | Euro | Lucien
+23 | Leroy Merlin Thoiry | 21.60 | Euro | Lucien
+25 | Migros | 14.53 | Euro | Lucien
+02 | Migros Gas | 30.05 | Euro | Lucien
+03 | McDonald's | 15.05 | Euro | Lucien
+
+Title: Dec 2016 Accounts
+
+23 | Val Sante | 12.30 | Euro | Lucien
+05 | Carrefour Gas | 33.56 | Euro | Lucien
+23 | McDonald's | 9.00 | Euro | Lucien
+17 | Migros | 15.49 | Euro | Lucien
+07 | Migros | 31.47 | Euro | Lucien
+01 | Migros | 75.28 | Euro | Lucien
+10 | Migros | 61.41 | Euro | Lucien
+15 | Migros | 31.05 | Euro | Lucien
+23 | Migros | 14.56 | Euro | Lucien
+23 | Migros | 57.57 | Euro | Lucien
+18 | Autogrill Aeroport | 15.30 | CHF | Lucien
+04 | Migros | 10.12 | Euro | Lucien
+01 | Temp | 0.00 | Euro | Yiting
+01 | Temp | 0.00 | CHF | Yiting
+
+Title: Feb 2016 Accounts
+
+27 | Leroy Merlin Thoiry | 9.90 | Euro | Lucien
+25 | IKEA | 9.95 | CHF | Lucien
+27 | La Clemence | 8.50 | CHF | Yiting
+20 | Migros Gas | 28.17 | Euro | Lucien
+27 | Migros | 38.92 | Euro | Lucien
+09 | Migros | 58.83 | Euro | Lucien
+20 | Migros | 60.34 | Euro | Lucien
+22 | Migros | 30.62 | Euro | Lucien
+16 | Migros | 58.18 | Euro | Yiting
+11 | Migros | 49.50 | Euro | Lucien
+08 | Carrefour Gas | 25.24 | Euro | Lucien
+27 | McDonald's | 12.60 | Euro | Lucien
+26 | Pathe | 49.50 | CHF | Yiting
+02 | Migros | 45.93 | Euro | Lucien
+13 | Migros | 50.16 | Euro | Lucien
+06 | Migros | 76.55 | Euro | Lucien
+Title: Jan 2016 Accounts
+
+30 | Manor | 49.95 | CHF | Yiting
+30 | Uchino | 67.50 | CHF | Lucien
+29 | Kebab | 13.90 | Euro | Lucien
+17 | McDonald's | 5.20 | Euro | Lucien
+12 | Migros | 34.38 | Euro | Lucien
+17 | St Brocard | 6.7 | Euro | Lucien
+16 | Migros | 58.46 | Euro | Lucien
+15 | Cote Potager | 7.87 | Euro | Lucien
+14 | Migros | 48.78 | Euro | Lucien
+23 | Carrefour Gas | 24.51 | Euro | Lucien
+23 | Looping Sports | 47.00 | Euro | Yiting
+23 | Les Basins | 36.00 | Euro | Lucien
+18 | Feu Vert | 50.00 | Euro | Lucien
+20 | Feu Vert | 218.80 | Euro | Lucien
+19 | Migros | 40.92 | Euro | Lucien
+22 | Le Coq Rouge | 85.40 | Euro | Lucien
+23 | Les Basins | 26.30 | Euro | Lucien
+23 | Migros | 41.06 | Euro | Lucien
+25 | Migros | 28.07 | Euro | Lucien
+30 | Migros | 27.09 | Euro | Lucien
+26 | Migros | 32.48 | Euro | Yiting
+30 | Jia Wei | 56.00 | CHF | Yiting
+Title: July 2016 Accounts
+
+30 | Migros | 40.72 | Euro | Yiting
+29 | Migros | 70.67 | Euro | Lucien
+24 | Konstanz | 27.00 | Euro | Yiting
+26 | Migros | 6.29 | Euro | Lucien
+20 | Migros | 47.24 | Euro | Lucien
+16 | Migros | 87.24 | Euro | Lucien
+22 | Cote Potager | 8.70 | Euro | Lucien
+15 | Migros | 21.25 | Euro | Lucien
+12 | Migros | 41.98 | Euro | Lucien
+09 | Migros | 130.22 | Euro | Lucien
+27 | Vietnam Market | 30.00 | Euro | Lucien
+27 | Vietname Market | 30.00 | Euro | Yiting
+15 | Cafe | 10.95 | Euro | Yiting
+28 | Carrefour Gas | 34.83 | Euro | Lucien
+Title: June 2016 Accounts
+
+12 | Hung Wan | 58.00 | CHF | Yiting
+15 | Withdrawal Nok | 1000.00 | NOK | Lucien
+01 | Temp | 0.00 | NOK | Yiting
+11 | Migros | 10.64 | Euro | Yiting
+11 | Migros | 97.28 | Euro | Yiting
+14 | Migros | 7.80 | Euro | Lucien
+
+Title: March 2016 Accounts
+
+20 | Chamonix Restaurant | 93.00 | Euro | Lucien
+02 | Bois Joly | 37.00 | Euro | Lucien
+04 | Karma | 58.00 | Euro | Lucien
+29 | Migros | 59.67 | Euro | Lucien
+05 | Gas | 24.16 | Euro | Lucien
+25 | Royal Thai | 41.60 | Euro | Lucien
+12 | Vietnam Market | 7.00 | Euro | Lucien
+12 | Vietnam Market | 7.00 | Euro | Yiting
+12 | Migros | 73.37 | Euro | Yiting
+07 | Migros | 50.60 | Euro | Lucien
+11 | Jia Wei | 54.00 | CHF | Yiting
+25 | Migros | 109.18 | Euro | Lucien
+20 | Le Tour Skiing | 93.00 | Euro | Yiting
+14 | Carrefour Gas | 34.61 | Euro | Lucien
+09 | Migros | 27.60 | Euro | Lucien
+
+Title: May 2016 Accounts
+
+15 | Milan Cafe | 12.90 | Euro | Yiting
+15 | Milan Restaurant | 59.90 | Euro | Yiting
+18 | Migros | 48.09 | Euro | Lucien
+16 | Mr Moussa | 3.12 | Euro | Yiting
+16 | Chamonix Restaurant | 40.60 | Euro | Lucien
+16 | Migros | 25.09 | Euro | Lucien
+16 | O'Brasseur | 40.00 | Euro | Yiting
+15 | Milan Setefi | 37.56 | Euro | Yiting
+10 | Cote Potager | 8.78 | Euro | Lucien
+19 | Le Royal Thai | 38.00 | Euro | Lucien
+13 | Migros | 26.98 | Euro | Lucien
+12 | Migros | 16.05 | Euro | Lucien
+04 | Migors | 50.83 | Euro | Lucien
+04 | Migros Gas | 31.53 | Euro | Lucien
+04 | Le Feu Vert | 198.99 | Euro | Lucien
+01 | Jia Wei | 52.00 | CHF | Yiting
+01 | Temp | 00.00 | CHF | Lucien
+28 | Migros | 75.52 | Euro | Lucien
+24 | Migros | 55.41 | Euro | Lucien
+22 | Akiko | 33.40 | CHF | Lucien
+21 | Nicolas | 8.70 | Euro | Lucien
+20 | Le Basili SA | 86.00 | CHF | Yiting
+21 | McDonald's | 24.90 | CHF | Lucien
+21 | Migros | 111.70 | Euro | Lucien
+23 | Migros Gas | 39.65 | CHF | Lucien
+16 | Mr Moussa | 4.50 | Euro | Yiting
+09 | Migros | 104.75 | Euro | Lucien
+14 | Acquisto | 52.50 | Euro | Lucien
+
+Title: Nov 2015 Accounts
+
+07 | Carrefour Gas | 32.31 | Euro | Lucien
+07 | Migros | 50.39 | Euro | Lucien
+14 | Migros | 37.91 | Euro | Lucien
+11 | Migros | 17.41 | Euro | Lucien
+22 | Migros | 30.22 | Euro | Lucien
+17 | Migros | 67.65 | Euro | Lucien
+18 | Migros | 20.97 | Euro | Lucien
+20 | Le Casanova | 64.00 | Euro | Lucien
+23 | Migros | 16.65 | Euro | Lucien
+25 | Migros | 41.21 | Euro | Lucien
+29 | St Brocard | 7.75 | Euro | Lucien
+01 | Temp | 0.00 | Euro | Yiting

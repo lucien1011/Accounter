@@ -21,3 +21,4 @@ Title: Jan 2016 Accounts
 25 | Migros | 28.07 | Euro | Lucien
 30 | Migros | 27.09 | Euro | Lucien
 26 | Migros | 32.48 | Euro | Yiting
+30 | Jia Wei | 56.00 | CHF | Yiting

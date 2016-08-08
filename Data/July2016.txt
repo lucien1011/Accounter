@@ -6,4 +6,11 @@ Title: July 2016 Accounts
 26 | Migros | 6.29 | Euro | Lucien
 20 | Migros | 47.24 | Euro | Lucien
 16 | Migros | 87.24 | Euro | Lucien
-
+22 | Cote Potager | 8.70 | Euro | Lucien
+15 | Migros | 21.25 | Euro | Lucien
+12 | Migros | 41.98 | Euro | Lucien
+09 | Migros | 130.22 | Euro | Lucien
+27 | Vietnam Market | 30.00 | Euro | Lucien
+27 | Vietname Market | 30.00 | Euro | Yiting
+15 | Cafe | 10.95 | Euro | Yiting
+28 | Carrefour Gas | 34.83 | Euro | Lucien

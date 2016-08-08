@@ -1,0 +1,12 @@
+Title: Aprial 2016 Accounts
+
+30 | Migros | 104.20 | Euro | Lucien
+29 | Geneve Thai Restaurant | 94.30 | CHF | Yiting
+23 | Kebab | 13.90 | Euro | Lucien
+20 | Migros | 9.30 | Euro | Lucien
+23 | Migros | 70.48 | Euro | Lucien
+23 | Leroy Merlin Thoiry | 21.60 | Euro | Lucien
+25 | Migros | 14.53 | Euro | Lucien
+02 | Migros Gas | 30.05 | Euro | Lucien
+03 | McDonald's | 15.05 | Euro | Lucien
+

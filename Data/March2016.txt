@@ -1,0 +1,18 @@
+Title: March 2016 Accounts
+
+20 | Chamonix Restaurant | 93.00 | Euro | Lucien
+02 | Bois Joly | 37.00 | Euro | Lucien
+04 | Karma | 58.00 | Euro | Lucien
+29 | Migros | 59.67 | Euro | Lucien
+05 | Gas | 24.16 | Euro | Lucien
+25 | Royal Thai | 41.60 | Euro | Lucien
+12 | Vietnam Market | 7.00 | Euro | Lucien
+12 | Vietnam Market | 7.00 | Euro | Yiting
+12 | Migros | 73.37 | Euro | Yiting
+07 | Migros | 50.60 | Euro | Lucien
+11 | Jia Wei | 54.00 | CHF | Yiting
+25 | Migros | 109.18 | Euro | Lucien
+20 | Le Tour Skiing | 93.00 | Euro | Yiting
+14 | Carrefour Gas | 34.61 | Euro | Lucien
+09 | Migros | 27.60 | Euro | Lucien
+
